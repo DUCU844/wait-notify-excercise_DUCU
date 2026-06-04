@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76c4efd-b1b0-494c-ba24-757e780bfde4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.498044595265695" />
+      <entry key="MS500" value="3.0391208243128602" />
+      <entry key="S2" value="6.461937383177583" />
+      <entry key="S5" value="8.297000900992757" />
+      <entry key="S10" value="9.090921754335506" />
+      <entry key="S30" value="9.68312560003968" />
+      <entry key="S60" value="9.83976133707207" />
+      <entry key="M2" value="9.919424890709442" />
+      <entry key="M5" value="9.98090131489322" />
+      <entry key="M10" value="11.108737128182899" />
+      <entry key="M15" value="15.264141820056775" />
+      <entry key="M30" value="35.575221770979994" />
+      <entry key="H1" value="67.00742508045309" />
+      <entry key="H2" value="95.3464640443981" />
+      <entry key="H4" value="114.49680911304853" />
+      <entry key="D1" value="133.74067054419407" />
+      <entry key="W1" value="137.38257075960374" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.3486153892420524E-212" />
+      <entry key="S10" value="2.0853334000207383E-106" />
+      <entry key="S30" value="5.930051976585611E-36" />
+      <entry key="S60" value="2.4352231560236623E-18" />
+      <entry key="M2" value="1.5678073161894104E-9" />
+      <entry key="M5" value="3.352375039530974E-4" />
+      <entry key="M10" value="0.023249555537352456" />
+      <entry key="M15" value="0.09969766441106104" />
+      <entry key="M30" value="0.43970782868096425" />
+      <entry key="H1" value="0.9340656787854609" />
+      <entry key="H2" value="1.3654342274308797" />
+      <entry key="H4" value="1.6521214555144945" />
+      <entry key="D1" value="1.9372407361095754" />
+      <entry key="W1" value="1.9909097301337284" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4229743692601207" />
+      <entry key="MS500" value="3.003455441303513" />
+      <entry key="S2" value="6.434206392490905" />
+      <entry key="S5" value="8.281675289120464" />
+      <entry key="S10" value="9.082339936518903" />
+      <entry key="S30" value="9.680036363468389" />
+      <entry key="S60" value="9.838186480141694" />
+      <entry key="M2" value="9.918629774253462" />
+      <entry key="M5" value="9.980914897219035" />
+      <entry key="M10" value="11.131760144705744" />
+      <entry key="M15" value="15.363534903416621" />
+      <entry key="M30" value="36.01441931570626" />
+      <entry key="H1" value="67.94096686083816" />
+      <entry key="H2" value="96.71151703753875" />
+      <entry key="H4" value="116.1486999621693" />
+      <entry key="D1" value="135.67786618088078" />
+      <entry key="W1" value="139.3734738672215" />
+    </decayedShown>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="ea73782d-fafe-493e-840e-1ea8d4c21288" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
